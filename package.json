@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "TS Server template",
   "main": "index.js",
+  "repository": {
+    "url": "git+https://github.com/roccomuso/netcat.git",
+    "type": "git"
+  },
   "scripts": {
     "dev": "nodemon"
   },
